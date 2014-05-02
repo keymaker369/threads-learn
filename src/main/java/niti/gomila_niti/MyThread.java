@@ -1,4 +1,4 @@
-package gomila_niti;
+package niti.gomila_niti;
 
 import util.AlgorithmUtil;
 
